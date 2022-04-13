@@ -1,0 +1,9 @@
+Agustin;2;-42;0;No
+Diego;3;10;2;Si
+Hernan;3;150;3;Si
+Hernan martin;3;1537;2;Si
+Juan Carlos;3;26;0;No
+Lionel;1;0;0;No
+Marta;2;15;0;No
+Mirtha;3;10;3;Si
+Pedro;3;14;2;Si
